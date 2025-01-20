@@ -1,4 +1,4 @@
-# KebunFresh - Fresh Produce Delivery App
+# KebunFresh - Fresh Produce Shopping App
 ## Overview
 KebunFresh is a collaborative project between Singapore University of Technology and Design (SUTD) and Petra Christian University (PCU). This app was developed to solve the problem faced by local vegetable consumers in Surabaya, Indonesia, who have to manually visit different farms to purchase fresh produce. The goal was to simplify the process by connecting buyers with the nearest farms through a convenient and user-friendly app.
 
