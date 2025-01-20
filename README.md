@@ -22,7 +22,7 @@ A concept app was designed that provides local stakeholders with potential solut
 ## Deployment
 The app is deployed and can be accessed online through the following link:
 
-[Visit KebunFresh App](https://kebunfresh.streamlit.app/Homepage)
+[Visit KebunFresh App](https://kebunfresh.streamlit.app/)
 
 ## Usage
     
