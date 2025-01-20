@@ -29,7 +29,7 @@ store_address = "Jalan Gunung Anyar No. 123, Surabaya, Indonesia"
 st.header(f"📋 {store_name}")
 st.write(f"**Deskripsi Toko:** {store_description}")
 st.write(f"**Kontak:** {contact_info}")
-st.markdown('**Nomor Telefon:** [+62 811-3110-511](https://wa.me/628113110511)')
+st.markdown('**Nomor Telefon:** [+62 8xx-xxxx-xxx](https://wa.me/65814227748)')
 st.write(f"**Alamat:** {store_address}")
 
 
