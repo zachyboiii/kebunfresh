@@ -1,0 +1,1001 @@
+User_ID,Product_Name,Farm_Name,Rating
+10,Telur,Farm A,3.7
+6,Buah Tin,Farm A,4.2
+7,Terong,Farm E,4.6
+8,Buah Tin,Farm C,4.7
+30,Pisang,Farm D,4.6
+38,Tomat,Farm B,3.8
+19,Terong,Farm A,3.5
+16,Pisang,Farm E,3.9
+40,Sawi,Farm B,4.4
+12,Terong,Farm B,4.7
+34,Kangkung,Farm C,4.6
+45,Telur,Farm A,4.4
+38,Buah Tin,Farm A,4.5
+8,Terong,Farm B,4.2
+24,Pisang,Farm B,3.2
+30,Terong,Farm E,3.3
+11,Sawi,Farm C,3.5
+37,Telur,Farm B,4.4
+23,Tomat,Farm E,4.4
+7,Pisang,Farm B,4.0
+6,Pepaya,Farm C,4.3
+8,Terong,Farm C,4.4
+7,Pisang,Farm E,3.5
+48,Pisang,Farm B,4.4
+28,Sawi,Farm D,3.6
+37,Terong,Farm B,4.9
+4,Terong,Farm B,3.5
+36,Pepaya,Farm A,4.9
+28,Kangkung,Farm C,4.6
+27,Sawi,Farm C,3.6
+3,Pisang,Farm D,4.3
+20,Terong,Farm C,3.5
+46,Buah Tin,Farm A,4.3
+10,Kangkung,Farm D,4.8
+32,Pisang,Farm E,4.3
+26,Pepaya,Farm E,4.9
+9,Sawi,Farm E,3.2
+26,Tomat,Farm D,4.8
+18,Bayam,Farm D,3.1
+41,Pisang,Farm D,3.2
+39,Tomat,Farm D,3.2
+50,Kangkung,Farm B,3.1
+31,Kangkung,Farm A,4.6
+12,Telur,Farm B,3.9
+29,Pisang,Farm C,3.3
+19,Pisang,Farm C,3.6
+48,Kangkung,Farm A,4.2
+14,Telur,Farm C,4.5
+36,Kangkung,Farm D,4.8
+36,Tomat,Farm C,3.9
+32,Tomat,Farm A,4.1
+9,Sawi,Farm B,4.3
+32,Kangkung,Farm E,4.0
+29,Bayam,Farm D,4.6
+11,Pisang,Farm C,4.9
+31,Tomat,Farm A,3.3
+50,Pisang,Farm D,4.8
+37,Tomat,Farm C,4.0
+39,Bayam,Farm C,4.0
+19,Pisang,Farm D,4.5
+19,Terong,Farm A,3.8
+18,Kangkung,Farm E,5.0
+48,Pepaya,Farm E,4.8
+48,Pisang,Farm A,4.0
+39,Pisang,Farm B,4.6
+31,Buah Tin,Farm E,3.9
+19,Terong,Farm E,3.5
+19,Tomat,Farm A,3.1
+7,Kangkung,Farm B,3.5
+28,Pisang,Farm D,4.2
+6,Sawi,Farm A,4.4
+26,Tomat,Farm E,3.0
+11,Telur,Farm A,4.8
+14,Buah Tin,Farm D,3.1
+28,Pisang,Farm C,4.9
+41,Pisang,Farm D,4.8
+38,Sawi,Farm D,4.5
+8,Pisang,Farm E,3.7
+29,Kangkung,Farm E,4.0
+36,Kangkung,Farm E,4.5
+19,Telur,Farm E,4.0
+40,Kangkung,Farm A,3.8
+40,Buah Tin,Farm E,3.6
+32,Terong,Farm E,3.9
+46,Bayam,Farm D,3.3
+50,Terong,Farm D,3.3
+46,Buah Tin,Farm C,5.0
+5,Tomat,Farm C,4.1
+9,Sawi,Farm A,3.4
+38,Terong,Farm C,3.1
+42,Buah Tin,Farm B,4.7
+46,Pepaya,Farm B,4.2
+34,Telur,Farm A,3.4
+16,Terong,Farm B,4.9
+46,Sawi,Farm C,4.1
+33,Sawi,Farm D,4.3
+48,Sawi,Farm A,3.7
+27,Bayam,Farm B,4.2
+5,Buah Tin,Farm B,3.6
+29,Telur,Farm B,3.1
+43,Tomat,Farm C,3.6
+14,Tomat,Farm B,4.4
+42,Terong,Farm C,3.7
+38,Telur,Farm B,4.1
+14,Pisang,Farm D,3.6
+16,Pisang,Farm B,3.6
+41,Tomat,Farm C,4.8
+11,Buah Tin,Farm B,4.1
+6,Pepaya,Farm D,3.7
+28,Buah Tin,Farm A,3.1
+46,Bayam,Farm B,4.4
+45,Kangkung,Farm B,3.5
+40,Telur,Farm E,3.7
+38,Buah Tin,Farm C,4.5
+43,Tomat,Farm A,3.9
+14,Telur,Farm B,3.4
+39,Kangkung,Farm C,4.8
+36,Terong,Farm B,4.9
+31,Bayam,Farm D,4.7
+32,Pisang,Farm C,4.6
+27,Pisang,Farm B,3.9
+22,Pisang,Farm B,4.1
+36,Buah Tin,Farm A,4.7
+13,Sawi,Farm B,3.1
+16,Kangkung,Farm B,4.8
+8,Tomat,Farm D,4.2
+35,Telur,Farm E,3.3
+26,Pepaya,Farm B,4.0
+42,Pisang,Farm C,3.8
+27,Tomat,Farm C,4.4
+45,Terong,Farm B,4.0
+27,Buah Tin,Farm D,3.6
+17,Pisang,Farm D,3.3
+38,Tomat,Farm C,3.4
+13,Buah Tin,Farm E,4.4
+30,Pisang,Farm D,3.7
+3,Tomat,Farm D,4.8
+28,Sawi,Farm C,4.1
+9,Terong,Farm D,4.7
+35,Tomat,Farm B,3.5
+39,Telur,Farm B,4.7
+26,Tomat,Farm C,4.4
+26,Buah Tin,Farm C,4.6
+50,Bayam,Farm D,5.0
+25,Terong,Farm A,4.7
+45,Sawi,Farm D,3.1
+13,Sawi,Farm D,4.6
+12,Bayam,Farm E,4.6
+35,Pisang,Farm A,4.5
+44,Pisang,Farm E,4.9
+4,Pepaya,Farm C,4.1
+25,Tomat,Farm C,4.7
+9,Tomat,Farm A,4.0
+39,Sawi,Farm A,4.9
+46,Bayam,Farm D,4.5
+41,Pisang,Farm D,4.6
+33,Tomat,Farm E,4.6
+11,Sawi,Farm A,4.4
+15,Terong,Farm B,4.4
+46,Bayam,Farm D,4.6
+17,Terong,Farm D,5.0
+17,Pisang,Farm A,4.6
+30,Pepaya,Farm D,4.1
+45,Kangkung,Farm C,3.8
+10,Pisang,Farm C,4.2
+48,Terong,Farm E,3.2
+25,Tomat,Farm E,3.4
+36,Sawi,Farm B,3.8
+37,Buah Tin,Farm C,4.6
+9,Buah Tin,Farm D,3.9
+43,Pisang,Farm D,4.7
+1,Tomat,Farm C,4.7
+32,Telur,Farm D,3.1
+47,Pepaya,Farm E,4.5
+34,Terong,Farm D,4.2
+50,Terong,Farm B,4.5
+16,Pepaya,Farm D,4.5
+42,Terong,Farm A,3.7
+26,Terong,Farm A,4.2
+9,Bayam,Farm B,3.7
+26,Telur,Farm E,4.5
+37,Telur,Farm C,3.8
+1,Bayam,Farm A,4.0
+38,Terong,Farm B,4.6
+5,Pisang,Farm C,3.8
+33,Buah Tin,Farm D,3.6
+6,Terong,Farm D,3.9
+47,Bayam,Farm A,4.9
+35,Terong,Farm A,3.4
+19,Buah Tin,Farm A,3.2
+34,Tomat,Farm D,3.5
+42,Terong,Farm E,4.4
+13,Pisang,Farm B,4.0
+25,Buah Tin,Farm B,3.2
+28,Telur,Farm A,3.5
+39,Pepaya,Farm E,4.5
+42,Tomat,Farm D,4.5
+48,Tomat,Farm E,3.5
+34,Pepaya,Farm C,3.2
+11,Buah Tin,Farm E,4.6
+34,Pisang,Farm C,3.2
+42,Kangkung,Farm A,4.0
+8,Terong,Farm B,3.5
+36,Kangkung,Farm A,3.3
+26,Terong,Farm D,4.3
+14,Pisang,Farm B,3.0
+4,Pisang,Farm C,4.6
+4,Buah Tin,Farm E,3.9
+3,Pisang,Farm E,4.4
+20,Pisang,Farm A,3.0
+4,Pisang,Farm B,4.0
+50,Pisang,Farm B,3.8
+7,Buah Tin,Farm D,4.7
+42,Telur,Farm A,3.4
+25,Tomat,Farm C,4.6
+49,Bayam,Farm C,3.7
+30,Bayam,Farm C,3.6
+38,Pepaya,Farm C,4.2
+4,Pisang,Farm B,4.3
+25,Pisang,Farm A,3.2
+20,Bayam,Farm A,4.4
+23,Telur,Farm C,3.7
+30,Bayam,Farm B,3.4
+42,Kangkung,Farm A,3.8
+20,Buah Tin,Farm E,4.2
+18,Buah Tin,Farm B,3.9
+30,Pepaya,Farm D,4.2
+8,Buah Tin,Farm E,4.9
+15,Kangkung,Farm E,4.0
+35,Kangkung,Farm E,4.9
+16,Terong,Farm A,4.1
+26,Pisang,Farm C,4.1
+49,Pisang,Farm B,4.0
+19,Pisang,Farm D,4.1
+22,Pepaya,Farm C,4.6
+25,Telur,Farm C,4.7
+43,Pepaya,Farm A,5.0
+7,Buah Tin,Farm B,4.2
+33,Tomat,Farm C,4.5
+5,Buah Tin,Farm B,3.1
+12,Telur,Farm B,4.2
+12,Telur,Farm D,3.2
+8,Pepaya,Farm A,3.3
+22,Tomat,Farm D,3.3
+34,Bayam,Farm B,3.0
+47,Telur,Farm E,3.0
+37,Pisang,Farm E,3.6
+48,Pepaya,Farm D,4.0
+50,Buah Tin,Farm D,4.0
+24,Terong,Farm D,4.7
+35,Tomat,Farm D,3.9
+8,Terong,Farm D,3.9
+2,Pisang,Farm B,4.2
+17,Sawi,Farm D,3.1
+16,Telur,Farm C,3.8
+39,Pisang,Farm C,3.2
+30,Terong,Farm C,3.3
+6,Tomat,Farm A,3.3
+26,Pisang,Farm C,3.4
+17,Kangkung,Farm C,4.6
+22,Pisang,Farm C,3.3
+42,Tomat,Farm C,4.0
+7,Tomat,Farm A,3.0
+43,Telur,Farm C,4.6
+50,Buah Tin,Farm D,4.9
+7,Pisang,Farm D,4.5
+27,Bayam,Farm C,3.4
+22,Kangkung,Farm C,3.8
+23,Kangkung,Farm B,4.7
+44,Kangkung,Farm B,4.5
+4,Telur,Farm B,4.6
+47,Sawi,Farm C,4.4
+23,Sawi,Farm A,4.9
+43,Pepaya,Farm D,3.4
+20,Sawi,Farm B,4.4
+36,Bayam,Farm B,3.3
+36,Sawi,Farm C,4.4
+38,Sawi,Farm C,5.0
+2,Bayam,Farm E,3.5
+22,Pisang,Farm D,3.6
+23,Pepaya,Farm D,3.1
+13,Tomat,Farm E,3.6
+5,Terong,Farm A,3.7
+34,Sawi,Farm D,3.8
+11,Pepaya,Farm A,3.9
+38,Pisang,Farm B,4.7
+11,Telur,Farm C,4.4
+5,Bayam,Farm D,4.5
+21,Telur,Farm A,3.6
+27,Telur,Farm B,4.3
+47,Kangkung,Farm A,4.4
+48,Kangkung,Farm E,4.8
+16,Bayam,Farm C,3.4
+48,Pepaya,Farm C,4.6
+24,Kangkung,Farm A,3.3
+30,Pepaya,Farm E,3.1
+4,Pisang,Farm D,4.4
+20,Buah Tin,Farm D,4.5
+20,Terong,Farm E,4.5
+13,Telur,Farm D,4.9
+2,Telur,Farm E,3.1
+30,Kangkung,Farm B,3.3
+49,Sawi,Farm A,3.7
+25,Telur,Farm B,3.7
+30,Sawi,Farm E,4.7
+49,Kangkung,Farm A,3.1
+49,Buah Tin,Farm B,3.5
+35,Telur,Farm C,3.4
+9,Bayam,Farm B,4.0
+30,Pisang,Farm C,4.6
+42,Pepaya,Farm B,4.8
+48,Buah Tin,Farm D,3.7
+14,Telur,Farm C,4.6
+48,Buah Tin,Farm C,3.2
+27,Telur,Farm C,4.1
+9,Pisang,Farm B,4.5
+36,Telur,Farm E,3.0
+50,Buah Tin,Farm C,4.4
+35,Pisang,Farm C,3.4
+17,Kangkung,Farm C,3.3
+23,Telur,Farm E,4.7
+40,Terong,Farm A,3.5
+46,Sawi,Farm E,3.7
+47,Bayam,Farm D,4.9
+16,Terong,Farm A,3.0
+33,Sawi,Farm C,4.8
+10,Sawi,Farm E,4.8
+20,Buah Tin,Farm B,3.5
+41,Pepaya,Farm A,4.9
+45,Pisang,Farm E,4.4
+14,Tomat,Farm C,3.9
+41,Terong,Farm B,3.9
+10,Telur,Farm E,3.8
+42,Pisang,Farm A,4.6
+47,Telur,Farm E,4.0
+42,Tomat,Farm A,3.7
+37,Terong,Farm D,4.1
+5,Tomat,Farm C,4.8
+46,Bayam,Farm B,4.5
+14,Sawi,Farm C,3.8
+16,Telur,Farm C,4.9
+9,Bayam,Farm A,4.2
+20,Tomat,Farm C,4.7
+22,Bayam,Farm B,4.1
+7,Bayam,Farm D,4.7
+13,Bayam,Farm E,4.0
+37,Pisang,Farm A,3.1
+46,Bayam,Farm E,3.2
+50,Buah Tin,Farm A,3.0
+9,Bayam,Farm A,3.2
+7,Kangkung,Farm E,3.8
+7,Telur,Farm E,3.0
+49,Sawi,Farm C,3.3
+25,Pisang,Farm E,4.4
+34,Pepaya,Farm D,4.7
+49,Pisang,Farm D,4.5
+7,Kangkung,Farm A,4.5
+17,Pepaya,Farm A,3.8
+24,Telur,Farm B,4.4
+41,Pisang,Farm D,3.2
+27,Pisang,Farm C,3.2
+12,Kangkung,Farm A,4.2
+15,Sawi,Farm D,4.2
+6,Terong,Farm E,4.5
+30,Kangkung,Farm A,3.9
+44,Kangkung,Farm B,4.7
+28,Kangkung,Farm E,3.7
+45,Tomat,Farm A,4.2
+10,Pisang,Farm B,5.0
+8,Bayam,Farm A,3.5
+40,Sawi,Farm D,4.8
+1,Sawi,Farm B,3.3
+29,Bayam,Farm D,4.2
+12,Pepaya,Farm C,4.5
+45,Kangkung,Farm E,4.0
+5,Tomat,Farm A,4.8
+49,Telur,Farm A,4.8
+39,Telur,Farm C,4.0
+7,Buah Tin,Farm D,3.1
+5,Telur,Farm E,3.4
+28,Terong,Farm A,3.4
+46,Pisang,Farm B,3.8
+44,Kangkung,Farm C,4.2
+2,Terong,Farm B,4.1
+46,Tomat,Farm A,5.0
+5,Pepaya,Farm C,3.2
+47,Pepaya,Farm E,4.0
+26,Terong,Farm B,3.1
+37,Telur,Farm B,4.1
+10,Pisang,Farm E,4.2
+5,Bayam,Farm B,3.6
+4,Kangkung,Farm D,3.9
+45,Pisang,Farm A,4.3
+37,Sawi,Farm A,3.0
+30,Pisang,Farm D,4.5
+9,Buah Tin,Farm C,4.5
+6,Pisang,Farm A,4.0
+46,Terong,Farm B,4.1
+9,Tomat,Farm B,3.3
+5,Bayam,Farm E,4.9
+43,Tomat,Farm A,4.6
+28,Telur,Farm C,3.5
+26,Sawi,Farm E,3.7
+27,Bayam,Farm C,5.0
+18,Telur,Farm E,3.6
+22,Pisang,Farm E,3.6
+47,Pisang,Farm B,3.5
+1,Buah Tin,Farm D,3.8
+44,Pisang,Farm C,3.1
+26,Telur,Farm D,4.8
+4,Sawi,Farm D,4.9
+26,Pepaya,Farm A,3.2
+27,Pisang,Farm A,4.3
+18,Buah Tin,Farm C,3.1
+17,Pisang,Farm D,3.5
+21,Buah Tin,Farm E,4.9
+33,Terong,Farm C,3.0
+29,Sawi,Farm C,3.4
+24,Terong,Farm B,3.8
+30,Telur,Farm D,3.1
+5,Pepaya,Farm E,4.9
+1,Pisang,Farm A,4.7
+34,Terong,Farm B,3.9
+19,Telur,Farm C,4.3
+30,Terong,Farm D,3.3
+2,Pisang,Farm A,4.4
+28,Pepaya,Farm E,4.9
+18,Pisang,Farm C,3.3
+20,Bayam,Farm C,4.2
+40,Tomat,Farm C,3.2
+20,Kangkung,Farm B,3.5
+27,Bayam,Farm C,3.8
+19,Buah Tin,Farm E,4.7
+18,Pisang,Farm B,4.1
+6,Tomat,Farm D,4.2
+32,Buah Tin,Farm C,3.3
+24,Pisang,Farm D,3.5
+24,Pisang,Farm E,4.9
+48,Tomat,Farm C,3.8
+27,Telur,Farm E,4.5
+35,Telur,Farm A,4.1
+13,Kangkung,Farm B,4.5
+32,Tomat,Farm B,3.6
+12,Pepaya,Farm C,4.7
+1,Bayam,Farm E,3.7
+20,Pisang,Farm D,3.1
+13,Pepaya,Farm E,3.7
+6,Pisang,Farm D,3.1
+46,Pisang,Farm A,3.5
+24,Pisang,Farm A,4.1
+34,Telur,Farm B,4.5
+50,Terong,Farm B,3.7
+27,Pisang,Farm A,5.0
+39,Telur,Farm E,3.4
+9,Buah Tin,Farm C,3.9
+22,Bayam,Farm D,3.6
+36,Pisang,Farm E,3.7
+45,Tomat,Farm E,4.8
+15,Pisang,Farm B,4.5
+7,Kangkung,Farm A,3.9
+27,Pisang,Farm A,4.2
+37,Sawi,Farm D,4.1
+47,Telur,Farm B,5.0
+39,Pepaya,Farm D,3.2
+40,Pisang,Farm B,4.3
+28,Bayam,Farm E,4.9
+13,Tomat,Farm C,4.9
+39,Pisang,Farm E,3.1
+43,Bayam,Farm C,3.4
+8,Tomat,Farm E,4.9
+21,Tomat,Farm A,3.1
+4,Kangkung,Farm E,3.1
+18,Buah Tin,Farm D,3.7
+36,Kangkung,Farm B,4.6
+14,Sawi,Farm E,3.0
+40,Pisang,Farm A,3.6
+9,Terong,Farm B,4.1
+22,Pisang,Farm B,4.4
+6,Buah Tin,Farm C,4.8
+10,Buah Tin,Farm E,3.7
+21,Pisang,Farm E,3.3
+41,Pisang,Farm A,3.5
+30,Buah Tin,Farm E,4.9
+48,Bayam,Farm E,3.0
+48,Pepaya,Farm C,3.8
+25,Sawi,Farm E,3.2
+11,Bayam,Farm C,4.8
+10,Sawi,Farm D,4.4
+21,Pisang,Farm E,3.6
+34,Terong,Farm A,4.8
+16,Tomat,Farm B,3.6
+28,Pisang,Farm E,4.6
+14,Tomat,Farm A,4.1
+25,Telur,Farm E,4.5
+2,Pepaya,Farm D,3.4
+6,Pisang,Farm D,4.3
+2,Pisang,Farm A,3.3
+16,Terong,Farm E,4.6
+28,Tomat,Farm D,4.6
+2,Kangkung,Farm C,4.6
+10,Telur,Farm D,3.3
+28,Terong,Farm A,4.5
+3,Pisang,Farm E,3.3
+37,Telur,Farm C,4.6
+38,Sawi,Farm E,4.3
+19,Tomat,Farm A,3.3
+41,Terong,Farm B,4.3
+6,Pepaya,Farm A,4.4
+5,Telur,Farm A,4.0
+7,Sawi,Farm E,4.9
+37,Telur,Farm D,3.4
+2,Kangkung,Farm B,3.1
+9,Bayam,Farm D,4.2
+13,Pepaya,Farm E,4.2
+10,Buah Tin,Farm D,4.3
+49,Pisang,Farm A,3.2
+9,Buah Tin,Farm D,4.0
+15,Sawi,Farm A,4.4
+3,Pepaya,Farm E,3.7
+37,Pepaya,Farm A,4.8
+3,Pepaya,Farm C,4.8
+7,Pepaya,Farm E,4.6
+26,Sawi,Farm E,3.8
+18,Kangkung,Farm C,3.0
+37,Tomat,Farm A,3.8
+50,Bayam,Farm B,3.9
+30,Bayam,Farm D,4.6
+27,Buah Tin,Farm A,4.9
+35,Tomat,Farm C,4.7
+25,Sawi,Farm D,4.6
+47,Buah Tin,Farm E,4.7
+8,Terong,Farm D,3.9
+25,Pepaya,Farm D,4.6
+26,Sawi,Farm E,4.0
+11,Tomat,Farm C,4.8
+34,Buah Tin,Farm D,4.6
+3,Tomat,Farm B,4.3
+15,Terong,Farm E,4.1
+1,Kangkung,Farm C,3.8
+32,Pisang,Farm B,3.8
+34,Kangkung,Farm C,3.5
+42,Pisang,Farm E,4.7
+44,Kangkung,Farm C,4.7
+34,Buah Tin,Farm D,4.4
+15,Tomat,Farm B,3.7
+42,Kangkung,Farm D,4.1
+14,Pisang,Farm A,3.0
+35,Bayam,Farm D,4.5
+50,Bayam,Farm D,3.4
+2,Bayam,Farm B,3.9
+29,Sawi,Farm E,4.3
+23,Buah Tin,Farm B,4.7
+11,Terong,Farm D,4.9
+10,Telur,Farm E,3.5
+44,Kangkung,Farm C,3.8
+16,Pepaya,Farm A,4.7
+44,Sawi,Farm A,3.4
+23,Terong,Farm B,4.3
+8,Pisang,Farm D,4.3
+45,Tomat,Farm C,4.1
+32,Pisang,Farm A,3.1
+43,Telur,Farm C,4.2
+21,Bayam,Farm E,3.3
+4,Tomat,Farm B,4.1
+31,Pepaya,Farm E,4.6
+1,Telur,Farm C,4.2
+24,Pepaya,Farm B,3.8
+9,Telur,Farm A,4.6
+32,Buah Tin,Farm D,3.5
+33,Terong,Farm D,4.7
+5,Bayam,Farm C,4.4
+18,Pisang,Farm C,3.1
+38,Pisang,Farm E,4.6
+10,Pisang,Farm C,4.1
+10,Pisang,Farm A,3.0
+44,Terong,Farm C,3.8
+25,Pepaya,Farm D,3.9
+18,Kangkung,Farm E,3.1
+41,Pepaya,Farm D,3.4
+28,Pisang,Farm E,4.4
+24,Pisang,Farm D,4.4
+50,Pisang,Farm A,5.0
+10,Buah Tin,Farm A,4.2
+48,Kangkung,Farm D,3.6
+34,Pepaya,Farm E,3.0
+37,Pisang,Farm B,3.9
+49,Pepaya,Farm E,4.9
+34,Terong,Farm D,3.9
+5,Terong,Farm C,4.3
+43,Pisang,Farm D,4.0
+33,Kangkung,Farm A,4.3
+16,Pisang,Farm E,3.4
+8,Tomat,Farm C,4.4
+12,Pisang,Farm A,4.4
+24,Pisang,Farm E,4.4
+26,Kangkung,Farm B,4.7
+35,Tomat,Farm D,3.1
+35,Pepaya,Farm D,3.1
+8,Buah Tin,Farm A,3.1
+28,Kangkung,Farm B,4.8
+28,Bayam,Farm D,5.0
+35,Terong,Farm C,3.2
+29,Kangkung,Farm B,4.1
+39,Pisang,Farm B,3.2
+3,Bayam,Farm C,4.4
+14,Buah Tin,Farm A,3.7
+30,Pisang,Farm A,3.7
+2,Tomat,Farm E,5.0
+8,Sawi,Farm D,3.8
+21,Sawi,Farm B,4.1
+39,Kangkung,Farm E,4.5
+24,Pepaya,Farm B,4.2
+7,Bayam,Farm E,4.4
+42,Bayam,Farm A,4.4
+35,Buah Tin,Farm C,4.9
+14,Pepaya,Farm B,3.6
+41,Tomat,Farm C,3.8
+26,Telur,Farm A,4.8
+19,Tomat,Farm D,4.4
+21,Terong,Farm E,4.3
+42,Tomat,Farm C,3.3
+1,Pepaya,Farm A,3.9
+10,Pisang,Farm D,4.1
+6,Pisang,Farm C,3.8
+50,Buah Tin,Farm C,4.9
+34,Sawi,Farm B,4.2
+12,Pisang,Farm D,4.0
+34,Bayam,Farm C,4.0
+2,Sawi,Farm A,4.0
+50,Telur,Farm C,3.4
+35,Pepaya,Farm A,4.8
+10,Kangkung,Farm B,4.2
+36,Tomat,Farm B,4.2
+38,Telur,Farm E,3.2
+45,Pepaya,Farm B,3.8
+10,Bayam,Farm B,4.7
+7,Sawi,Farm C,3.6
+47,Pepaya,Farm B,3.0
+38,Telur,Farm C,4.2
+27,Pisang,Farm E,4.6
+23,Sawi,Farm E,4.6
+25,Pepaya,Farm A,4.5
+23,Bayam,Farm E,3.3
+3,Pisang,Farm E,4.7
+7,Terong,Farm A,4.2
+27,Kangkung,Farm D,3.7
+2,Terong,Farm D,3.5
+11,Pepaya,Farm B,5.0
+10,Pepaya,Farm E,5.0
+38,Buah Tin,Farm C,4.9
+10,Telur,Farm E,4.6
+9,Sawi,Farm C,3.4
+19,Pisang,Farm A,4.3
+50,Tomat,Farm E,3.7
+20,Telur,Farm D,3.1
+23,Terong,Farm B,3.0
+40,Kangkung,Farm D,4.1
+17,Telur,Farm E,3.4
+31,Tomat,Farm C,3.2
+10,Kangkung,Farm C,4.6
+50,Telur,Farm D,4.9
+36,Pisang,Farm C,4.7
+39,Pisang,Farm D,4.2
+8,Bayam,Farm A,3.5
+4,Terong,Farm E,3.4
+25,Pepaya,Farm E,4.8
+41,Telur,Farm C,3.5
+7,Pisang,Farm A,4.5
+44,Tomat,Farm C,4.5
+13,Bayam,Farm C,4.5
+8,Pisang,Farm B,4.6
+29,Telur,Farm B,3.7
+37,Pisang,Farm E,3.4
+47,Kangkung,Farm A,4.5
+37,Kangkung,Farm E,3.1
+36,Tomat,Farm A,4.9
+29,Pisang,Farm E,4.4
+29,Tomat,Farm B,3.7
+30,Pepaya,Farm D,4.2
+25,Tomat,Farm C,3.5
+10,Terong,Farm E,3.3
+27,Bayam,Farm A,4.7
+39,Telur,Farm A,3.1
+19,Bayam,Farm C,4.2
+21,Kangkung,Farm D,3.2
+30,Buah Tin,Farm B,3.7
+36,Kangkung,Farm C,3.4
+17,Pepaya,Farm D,3.5
+16,Pisang,Farm A,4.9
+48,Buah Tin,Farm E,3.7
+42,Kangkung,Farm D,3.4
+37,Buah Tin,Farm D,4.0
+5,Buah Tin,Farm B,3.9
+8,Pepaya,Farm B,4.1
+26,Pisang,Farm C,5.0
+1,Buah Tin,Farm B,5.0
+22,Sawi,Farm C,4.4
+38,Kangkung,Farm C,3.1
+8,Buah Tin,Farm C,3.0
+31,Tomat,Farm D,3.9
+40,Pepaya,Farm B,4.8
+17,Pisang,Farm C,4.1
+5,Pisang,Farm B,3.4
+4,Sawi,Farm A,4.9
+49,Terong,Farm C,3.9
+38,Tomat,Farm A,3.6
+46,Buah Tin,Farm C,3.9
+11,Telur,Farm B,3.5
+17,Pisang,Farm B,3.0
+1,Sawi,Farm E,3.9
+13,Telur,Farm E,3.2
+8,Pisang,Farm D,3.4
+1,Pisang,Farm E,3.4
+17,Buah Tin,Farm E,3.6
+16,Telur,Farm E,3.8
+23,Buah Tin,Farm C,4.6
+15,Buah Tin,Farm D,4.5
+38,Tomat,Farm E,3.8
+10,Bayam,Farm B,4.9
+34,Pisang,Farm D,3.6
+16,Kangkung,Farm D,4.1
+3,Pisang,Farm C,3.8
+16,Pisang,Farm A,4.0
+27,Telur,Farm A,4.3
+21,Tomat,Farm B,3.5
+30,Kangkung,Farm C,3.1
+10,Buah Tin,Farm E,4.2
+31,Terong,Farm E,3.8
+48,Sawi,Farm A,4.6
+46,Sawi,Farm B,5.0
+17,Kangkung,Farm A,3.4
+20,Terong,Farm E,3.7
+46,Pisang,Farm A,4.8
+9,Tomat,Farm D,4.8
+5,Terong,Farm C,3.6
+17,Bayam,Farm E,4.7
+8,Sawi,Farm B,4.2
+20,Telur,Farm D,4.0
+44,Tomat,Farm E,3.3
+26,Bayam,Farm C,3.6
+39,Telur,Farm D,4.2
+37,Pisang,Farm E,4.9
+28,Kangkung,Farm C,3.9
+23,Terong,Farm D,4.3
+22,Pepaya,Farm B,3.5
+34,Telur,Farm C,4.8
+5,Sawi,Farm D,4.9
+17,Kangkung,Farm C,4.7
+3,Pisang,Farm D,4.4
+35,Bayam,Farm A,4.5
+26,Terong,Farm D,4.9
+7,Pisang,Farm D,4.8
+2,Kangkung,Farm B,3.3
+50,Pepaya,Farm D,4.2
+38,Terong,Farm A,4.4
+14,Pisang,Farm E,4.0
+34,Buah Tin,Farm D,3.4
+3,Pepaya,Farm B,3.9
+45,Pisang,Farm A,4.0
+5,Pisang,Farm C,3.3
+23,Sawi,Farm E,4.9
+16,Tomat,Farm B,4.5
+26,Kangkung,Farm B,4.2
+27,Buah Tin,Farm A,3.4
+35,Pisang,Farm E,3.3
+42,Buah Tin,Farm B,3.8
+2,Telur,Farm A,3.8
+42,Terong,Farm A,3.1
+36,Tomat,Farm D,4.0
+17,Pisang,Farm D,4.7
+9,Terong,Farm D,4.9
+23,Tomat,Farm C,4.5
+32,Pisang,Farm B,4.8
+43,Kangkung,Farm D,4.8
+18,Pepaya,Farm C,3.9
+11,Sawi,Farm A,4.7
+28,Kangkung,Farm C,3.0
+39,Terong,Farm A,4.0
+45,Pepaya,Farm E,4.0
+18,Tomat,Farm C,3.9
+31,Sawi,Farm E,4.5
+16,Pisang,Farm E,4.1
+18,Kangkung,Farm A,3.2
+15,Telur,Farm A,4.2
+3,Bayam,Farm D,3.9
+9,Kangkung,Farm A,4.7
+14,Bayam,Farm C,4.6
+34,Sawi,Farm E,4.1
+28,Kangkung,Farm A,3.2
+25,Kangkung,Farm D,3.1
+26,Terong,Farm A,5.0
+19,Pisang,Farm B,3.7
+49,Telur,Farm C,3.8
+19,Telur,Farm C,3.6
+40,Telur,Farm D,3.7
+21,Terong,Farm D,4.6
+49,Bayam,Farm E,4.7
+1,Telur,Farm A,3.6
+12,Pisang,Farm A,4.4
+18,Telur,Farm B,3.5
+2,Kangkung,Farm A,3.9
+4,Pisang,Farm B,3.8
+19,Bayam,Farm E,3.9
+28,Sawi,Farm E,4.4
+42,Terong,Farm B,4.5
+32,Pisang,Farm A,4.6
+34,Buah Tin,Farm B,4.4
+26,Buah Tin,Farm B,3.1
+23,Sawi,Farm B,4.1
+7,Buah Tin,Farm B,4.1
+1,Buah Tin,Farm B,3.1
+38,Pepaya,Farm E,4.1
+36,Bayam,Farm E,3.2
+20,Pisang,Farm B,4.5
+38,Pisang,Farm A,4.6
+1,Bayam,Farm D,3.7
+44,Pisang,Farm D,4.6
+15,Terong,Farm C,4.8
+45,Tomat,Farm E,3.4
+15,Pepaya,Farm D,3.8
+48,Kangkung,Farm D,4.3
+33,Pepaya,Farm B,3.5
+17,Buah Tin,Farm D,3.6
+45,Terong,Farm E,4.2
+24,Pisang,Farm A,3.4
+50,Pepaya,Farm E,3.7
+47,Pisang,Farm D,4.3
+14,Kangkung,Farm E,4.6
+49,Terong,Farm D,4.4
+18,Buah Tin,Farm C,4.4
+3,Buah Tin,Farm B,4.0
+19,Tomat,Farm A,3.3
+36,Sawi,Farm B,3.1
+50,Pisang,Farm D,4.5
+17,Sawi,Farm E,4.6
+34,Sawi,Farm B,4.0
+26,Pisang,Farm A,4.2
+33,Terong,Farm C,3.1
+10,Kangkung,Farm E,4.9
+13,Sawi,Farm B,3.1
+33,Telur,Farm A,3.2
+33,Telur,Farm B,3.4
+6,Buah Tin,Farm E,4.3
+5,Bayam,Farm C,3.5
+50,Pepaya,Farm B,4.3
+20,Buah Tin,Farm D,4.3
+19,Tomat,Farm A,3.6
+1,Pepaya,Farm E,3.8
+24,Tomat,Farm A,3.2
+14,Buah Tin,Farm B,3.2
+1,Terong,Farm E,4.3
+25,Kangkung,Farm C,3.4
+20,Sawi,Farm E,3.4
+22,Pisang,Farm E,3.3
+13,Pisang,Farm E,4.2
+26,Pisang,Farm A,3.5
+29,Telur,Farm A,4.1
+6,Pisang,Farm A,4.9
+44,Telur,Farm B,4.0
+13,Pisang,Farm B,4.1
+34,Terong,Farm D,3.4
+48,Sawi,Farm A,4.8
+45,Buah Tin,Farm D,4.4
+39,Terong,Farm A,3.2
+16,Terong,Farm D,3.1
+32,Pepaya,Farm C,4.0
+28,Tomat,Farm D,4.0
+11,Terong,Farm E,4.3
+35,Bayam,Farm E,3.1
+32,Pisang,Farm C,4.5
+44,Pisang,Farm B,3.3
+29,Pisang,Farm D,3.3
+7,Buah Tin,Farm A,4.6
+10,Terong,Farm E,4.0
+45,Tomat,Farm E,3.6
+49,Tomat,Farm B,4.6
+1,Tomat,Farm D,3.3
+43,Terong,Farm B,3.2
+41,Terong,Farm B,3.5
+24,Kangkung,Farm D,4.0
+8,Kangkung,Farm E,4.0
+49,Pisang,Farm A,3.1
+27,Terong,Farm C,4.2
+36,Terong,Farm D,3.2
+25,Telur,Farm E,4.3
+15,Kangkung,Farm D,3.4
+38,Kangkung,Farm D,3.1
+46,Kangkung,Farm D,4.1
+18,Tomat,Farm D,3.1
+1,Pisang,Farm A,3.7
+7,Pisang,Farm A,3.4
+8,Pepaya,Farm C,3.8
+43,Pisang,Farm D,4.3
+43,Pepaya,Farm A,4.5
+22,Pisang,Farm E,4.5
+36,Buah Tin,Farm C,3.7
+24,Pisang,Farm E,3.9
+49,Buah Tin,Farm B,3.0
+46,Pisang,Farm B,3.3
+25,Pisang,Farm B,4.1
+49,Pisang,Farm B,3.4
+49,Telur,Farm A,4.8
+1,Pisang,Farm B,3.7
+21,Telur,Farm B,4.5
+41,Sawi,Farm E,4.9
+42,Tomat,Farm A,3.7
+45,Bayam,Farm A,3.1
+21,Pisang,Farm A,3.2
+10,Bayam,Farm A,4.0
+19,Sawi,Farm E,3.2
+41,Kangkung,Farm B,4.7
+14,Bayam,Farm C,3.6
+26,Tomat,Farm A,4.5
+42,Terong,Farm D,3.3
+5,Tomat,Farm E,3.1
+12,Pisang,Farm B,4.8
+32,Buah Tin,Farm E,4.7
+11,Tomat,Farm E,3.4
+7,Terong,Farm D,4.9
+24,Terong,Farm B,3.4
+25,Telur,Farm D,4.9
+46,Tomat,Farm E,4.2
+14,Pepaya,Farm A,4.3
+48,Terong,Farm A,3.5
+46,Sawi,Farm D,4.4
+8,Pisang,Farm C,3.3
+48,Pisang,Farm C,4.5
+13,Pisang,Farm B,3.4
+46,Sawi,Farm E,3.6
+31,Pisang,Farm A,3.7
+50,Pisang,Farm A,4.2
+8,Pisang,Farm B,3.2
+2,Tomat,Farm A,4.6
+38,Telur,Farm C,4.5
+38,Bayam,Farm A,4.6
+8,Buah Tin,Farm A,3.3
+50,Kangkung,Farm A,3.2
+27,Tomat,Farm E,4.2
+7,Tomat,Farm B,4.9
+14,Pisang,Farm B,3.7
+13,Terong,Farm A,3.7
+44,Bayam,Farm C,4.3
+15,Pisang,Farm E,3.1
+46,Pisang,Farm B,3.5
+32,Tomat,Farm C,4.9
+15,Bayam,Farm E,3.1
+6,Pisang,Farm E,4.3
+41,Pisang,Farm D,3.1
+13,Tomat,Farm D,3.5
+41,Pisang,Farm A,4.9
+14,Buah Tin,Farm E,3.9
+34,Telur,Farm D,4.1
+42,Pisang,Farm D,4.6
+7,Pisang,Farm C,4.8
+46,Bayam,Farm C,3.9
+15,Sawi,Farm A,4.0
+26,Terong,Farm A,4.8
+8,Tomat,Farm D,4.3
+48,Bayam,Farm B,3.3
+44,Telur,Farm D,3.4
+13,Buah Tin,Farm E,3.1
+8,Pisang,Farm C,3.5
+9,Terong,Farm E,4.9
+24,Buah Tin,Farm E,3.4
+31,Buah Tin,Farm A,5.0
+19,Kangkung,Farm E,4.7
+35,Bayam,Farm C,4.5
+41,Pepaya,Farm B,4.9
+13,Sawi,Farm D,3.7
+27,Telur,Farm B,4.4
+27,Pisang,Farm B,3.3
+35,Pepaya,Farm E,3.4
+5,Pisang,Farm D,4.8
+28,Pepaya,Farm A,4.8
+35,Pepaya,Farm C,4.5
+47,Telur,Farm C,3.9
+47,Terong,Farm C,3.9
+19,Pepaya,Farm E,4.9
+24,Tomat,Farm E,3.3
+13,Kangkung,Farm E,4.6
+45,Buah Tin,Farm B,3.5
+34,Pepaya,Farm B,3.9
+48,Kangkung,Farm E,4.2
+41,Tomat,Farm B,4.4
+1,Kangkung,Farm E,3.2
+29,Buah Tin,Farm A,5.0
+48,Buah Tin,Farm D,4.2
+40,Pisang,Farm D,3.3
+30,Tomat,Farm A,3.7
+44,Bayam,Farm C,3.3
+32,Pisang,Farm B,3.2
+44,Kangkung,Farm B,4.9
+7,Pepaya,Farm D,4.4
+22,Pisang,Farm B,3.9
+2,Kangkung,Farm B,4.8
+10,Pisang,Farm E,3.5
+13,Bayam,Farm A,3.3
+28,Kangkung,Farm C,3.8
+9,Terong,Farm E,3.6
+33,Bayam,Farm C,3.3
